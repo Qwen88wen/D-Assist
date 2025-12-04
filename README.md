@@ -39,9 +39,6 @@ The application combines traditional structured database search with cutting-edg
 - **Pharmacy Staff** (Retail & Hospital Settings)
 - **Pharmacy Assistants**
 
-### Secondary Users
-- **Pharmacy Students**
-- **Medical Students**
 
 ### User Needs Addressed
 - Instant access to comprehensive diabetes medication information
