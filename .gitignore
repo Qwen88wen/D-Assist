@@ -1,0 +1,35 @@
+# Java/Maven/JavaFX project .gitignore
+# Compiled class files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.settings/
+.project
+.classpath
+
+# Build directories
+bin/
+build/
+out/
+
+# Temporary files
+*.swp
+*~
+*.tmp
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# JavaFX
+.attach_pid*

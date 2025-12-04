@@ -1,0 +1,55 @@
+/* D-Assist Application Styles */
+/* Application-wide CSS styling for JavaFX components */
+
+/* Root color scheme */
+.root {
+    -fx-primary-color: #2196F3;
+    -fx-secondary-color: #FFC107;
+    -fx-background-color: #F5F5F5;
+    -fx-text-color: #333333;
+}
+
+/* Button styles */
+.button {
+    -fx-background-color: -fx-primary-color;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-opacity: 0.8;
+}
+
+/* Text field styles */
+.text-field {
+    -fx-padding: 8px;
+    -fx-border-color: #CCCCCC;
+    -fx-border-radius: 4px;
+}
+
+/* Table view styles */
+.table-view {
+    -fx-background-color: white;
+}
+
+/* Chat message styles */
+.chat-message {
+    -fx-padding: 10px;
+    -fx-background-radius: 8px;
+}
+
+.chat-user-message {
+    -fx-background-color: #E3F2FD;
+}
+
+.chat-ai-message {
+    -fx-background-color: #F5F5F5;
+}
+
+/* Citation styles */
+.citation {
+    -fx-text-fill: -fx-primary-color;
+    -fx-underline: true;
+    -fx-cursor: hand;
+}
